@@ -1,4 +1,11 @@
 class Launch
 {
-	void ml(){}
+	void ml()
+	{
+	System.out.println("Hello Java Lovers");
+	}
+	void m2()
+	{
+	System.out.println("Hello Java Lovers");
+	}
 }
